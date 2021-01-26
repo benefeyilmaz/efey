@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "FELİCİA❤️#YETKİLİALIM",
+        "GUILD_ID": "688315110657228819",
+        "VOICE_CHANNEL": "801150266501103666",
+        "MIN_STAFF_ROLE": "801150220649627689"
+    },
+    "FILES": {
+        "WELCOME": "default_files/unreg.mp4",
+        "STAFF": "default_files/staff.mp4"
+    },
+    "TOKEN": "ODAxMjAxNTIwNTI3NjcxMzU4.YAdPEA.UT6GsGxTahQKXFfj4kZYpAD2kqs"
+}
